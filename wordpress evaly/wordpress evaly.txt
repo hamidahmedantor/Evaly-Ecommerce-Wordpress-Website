@@ -1,0 +1,14 @@
+database name : evaly 
+database username : hamiddatabase
+password : Hamid.1997@
+table prefix : dr_
+
+
+for wordpress 
+username : hamid 
+pass : Hamid.1997@
+
+
+serach wordpress website : http://localhost/wordpress/wp-admin/index.php
+
+for payment : https://dashboard.stripe.com/test/dashboard
